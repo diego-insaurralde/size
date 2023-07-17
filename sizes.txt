@@ -1,19 +1,38 @@
-**/home/dijub/Code/python/size**
-   Paths    | Size (mb)
----------------------
- README.md  |  0.00 
-__pycache__ |  0.00 
-  size.py   |  0.00 
-  test.py   |  0.00 
----------------------
+**c:\users\diego\Downloads**
+                      Paths                       | Size (mb)
+-----------------------------------------------------------
+   Fedora-Container-Base-38-20230609.0.x86_64     | 186.82
+             fedora-38-rootfs.ta.tar              | 186.82
+                7.Julio 2022.txt                  | 116.60
+Fedora-Container-Base-38-20230609.0.x86_64.tar.xz | 43.18 
+              7.Julio 2022 (1).zip                |  7.34 
+                7.Julio 2022.zip                  |  7.34 
+                 OfficeSetup.exe                  |  7.18 
+            MicrosoftTeams-image.png              |  0.16 
+            AWS_BestPractices_POR.pdf             |  0.15 
+                    sizes.txt                     |  0.00 
+                   export.pdf                     |  0.00 
+-----------------------------------------------------------
 
-**/home/dijub/Code/python/size**
-   Paths    | Size (mb)
----------------------
- README.md  |  0.00 
-__pycache__ |  0.00 
-  size.py   |  0.00 
- sizes.txt  |  0.00 
-  test.py   |  0.00 
----------------------
+                      Total                       | 555.60-----------------------------------------------------------
+
+
+**c:\users\diego\Downloads**
+                      Paths                       | Size (mb)
+-----------------------------------------------------------
+   Fedora-Container-Base-38-20230609.0.x86_64     | 186.82
+             fedora-38-rootfs.ta.tar              | 186.82
+                7.Julio 2022.txt                  | 116.60
+Fedora-Container-Base-38-20230609.0.x86_64.tar.xz | 43.18 
+              7.Julio 2022 (1).zip                |  7.34 
+                7.Julio 2022.zip                  |  7.34 
+                 OfficeSetup.exe                  |  7.18 
+            MicrosoftTeams-image.png              |  0.16 
+            AWS_BestPractices_POR.pdf             |  0.15 
+                    sizes.txt                     |  0.00 
+                   export.pdf                     |  0.00 
+-----------------------------------------------------------
+                      Total                       | 555.60
+-----------------------------------------------------------
+
 
