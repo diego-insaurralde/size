@@ -1,0 +1,19 @@
+**/home/dijub/Code/python/size**
+   Paths    | Size (mb)
+---------------------
+ README.md  |  0.00 
+__pycache__ |  0.00 
+  size.py   |  0.00 
+  test.py   |  0.00 
+---------------------
+
+**/home/dijub/Code/python/size**
+   Paths    | Size (mb)
+---------------------
+ README.md  |  0.00 
+__pycache__ |  0.00 
+  size.py   |  0.00 
+ sizes.txt  |  0.00 
+  test.py   |  0.00 
+---------------------
+
